@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pallav Sharma [![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=225&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D23352%26project%3D%26in=0)](https://codetime.dev)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pallavsharma505&theme=tokyonight" alt="mystreak"/>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=pallavsharma505)
 
 ## A passionate full-stack developer.
 
