@@ -128,7 +128,7 @@ I enjoy taking ideas from concept to deployment—designing interfaces, building
 
 <a href="https://pallav.dev">
   <img
-    src="https://nirzak-streak-stats.vercel.app?user=pallavsharma505&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun&background=45%2C001517%2C1F0000"
+    src="https://streak-stats.demolab.com?user=pallavsharma505&amp;theme=dark&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D&amp;exclude_days=Sun&amp;background=45%2C001517%2C1F0000"
     alt="Pallav Sharma's GitHub contribution streak"
   />
 </a>
